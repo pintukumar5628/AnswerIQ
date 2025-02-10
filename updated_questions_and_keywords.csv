@@ -1,0 +1,21 @@
+Answer ID,Question,Keywords,Score
+1,What is your favorite programming language?,"Python, Java, C++, R",10
+2,Name a popular library for data visualization in Python.,"Matplotlib, Seaborn, Plotly",10
+3,Which cloud platforms are commonly used for deploying applications?,"AWS, Azure, Google Cloud",10
+4,What is the main purpose of a database management system?,"Store, Retrieve, Manage Data",10
+5,Name a machine learning algorithm used for classification tasks.,"Logistic Regression, Decision Tree, Random Forest",10
+6,What is the use of SQL in data analysis?,"Query, Database, Retrieve, Update",10
+7,Name an unsupervised machine learning algorithm.,"K-Means, PCA, DBSCAN",10
+8,Which Python library is used for data manipulation?,"Pandas, Numpy",10
+9,Name a statistical measure of central tendency.,"Mean, Median, Mode",10
+10,Which command is used to check the structure of a table in SQL?,"Describe, DESC",10
+11,What is the primary purpose of machine learning?,"Predict, Automate, Learn",10
+12,Name a version control system used in software development.,"Git, SVN",10
+13,Which algorithm is commonly used for regression tasks?,"Linear Regression, Ridge Regression",10
+14,What is the significance of data normalization in machine learning?,"Scale, Normalize, Feature",10
+15,Which Python library is used for deep learning?,"TensorFlow, PyTorch",10
+16,What is the role of a primary key in a database?,"Unique, Identifier, Record",10
+17,Name a popular data visualization tool other than Python libraries.,"Tableau, Power BI",10
+18,What is the difference between supervised and unsupervised learning?,"Labeled, Unlabeled, Data",10
+19,Which metric is used to evaluate classification models?,"Accuracy, Precision, Recall",10
+20,What is the command to create a new table in SQL?,CREATE TABLE,10
