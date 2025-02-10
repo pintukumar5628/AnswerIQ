@@ -39,7 +39,7 @@ Database: PostgreSQL/MySQL (for storing responses and evaluations)
 Installation
 
 # Clone the repository
-git clone https://github.com/pintukumar628/subjective-answer-evaluation.git
+git clone https://github.com/pintukumar5628/AnswerIQ.git
 cd subjective-answer-evaluation
 
 # Install dependencies
