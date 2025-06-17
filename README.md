@@ -1,5 +1,7 @@
 # AnswerIQ
 
+[image](https://github.com/user-attachments/assets/c884eef5-c0e0-46d3-814f-72b783bd5a68)
+
 
 Subjective Answer Evaluation System
 
